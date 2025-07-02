@@ -38,6 +38,9 @@ You don't need to specify the hash type. Hash Buster will identify and *crack* i
 Yep, just specify a directory and Hash Buster will go through all the files and directories present in it, looking for hashes.
 
 **Usage:** `buster -d /root/Documents`
+
+
+
 ### Cracking hashes from a file
 
 Hash Buster can find your hashes even if they are stored in a file like this
