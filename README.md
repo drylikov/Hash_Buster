@@ -18,6 +18,8 @@
 - Can find hashes from a directory, recursively
 - Multi-threading
 
+
+
 ## Insallation & Usage
 > **Note:** Hash Buster isn't compatible with python2, run it with python3 instead.
 > Also, Hash-Buster uses some APIs for hash lookups, check the source code if you are paranoid.
