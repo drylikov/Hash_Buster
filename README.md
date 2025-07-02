@@ -52,6 +52,8 @@ surrondedbytext8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918s
 
 **Usage:** `buster -f /root/hashes.txt`
 
+
+
 ### Specifiying number of threads
 
 Multi-threading can incredibly minimize the overall speed when you have a lot of hashes to crack by making requests in parallel.
