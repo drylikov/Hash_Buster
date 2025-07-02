@@ -32,6 +32,8 @@ After the installation, you will be able to access it with `buster` command.
 
 You don't need to specify the hash type. Hash Buster will identify and *crack* it under 3 seconds.
 
+
+
 **Usage:** `buster -s <hash>`
 ### Finding hashes from a directory
 
