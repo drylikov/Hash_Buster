@@ -46,6 +46,9 @@ Yep, just specify a directory and Hash Buster will go through all the files and 
 ### Cracking hashes from a file
 
 Hash Buster can find your hashes even if they are stored in a file like this
+
+
+
 ```
 simple@gmail.com:21232f297a57a5a743894a0e4a801fc3
 {"json@gmail.com":"d033e22ae348aeb5660fc2140aec35850c4da997"}
